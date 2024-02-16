@@ -1,0 +1,30 @@
+body{
+    background-color: cornsilk;
+}
+#message-container{
+    height: 80vh;
+    margin-left: 25vh;
+    margin-right: 25vh;
+    background-color: blanchedalmond;
+    margin-top: 5vh;
+}
+
+#send-container{
+    margin-top: 10px;
+    text-align: center;
+}
+
+input{
+    padding-top: 0;
+    width: 40%;
+    height: 25px;
+    border: 3px solid royalblue;
+}
+
+button{
+    padding-top: 0;
+    background-color: royalblue;
+    color: white;
+    height: 30px;
+    width: 5%;
+}
